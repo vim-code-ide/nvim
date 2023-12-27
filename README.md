@@ -5,6 +5,13 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 > 基于前端 React 开发工作者打造的 IDE
 
+## Prepare
+
+- [RigGrep](https://github.com/BurntSushi/ripgrep)
+- [Python]
+- [LazyGit]
+- [fzf](https://github.com/junegunn/fzf)
+
 ## Mac|Linux:
 
 ### required
