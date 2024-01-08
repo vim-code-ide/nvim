@@ -8,8 +8,10 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 ## Prepare
 
 - [RigGrep](https://github.com/BurntSushi/ripgrep)
-- [Python]
-- [LazyGit]
+- [Python](https://www.python.org/downloads/)
+- [LazyGit](https://github.com/jesseduffield/lazygit)
+- [sed](https://www.gnu.org/software/sed/)
+  -  `brew install gnu-sed`
 - [fzf](https://github.com/junegunn/fzf)
 
 ## Mac|Linux:
